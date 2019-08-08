@@ -1,4 +1,3 @@
-
-print("This is from git")
-
-print("This is so good ")
+print("This is second day")
+print("This is second day")
+print("This is third")
